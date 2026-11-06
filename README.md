@@ -15,7 +15,7 @@ This repository is under preparation and will accompany the above paper.
 
 - The full GLaDSNet, including the ordered sampling (DConv/SConv), the
   Structure-Decomposition Sparse Attention (SDSA), and the Multi-Branch
-  Weighted Feed-Forward Network (MB-FFN);
+  Feed-Forward Network (MB-FFN);
 - Pretrained weights on DeepGlobe and CHN6-CUG;
 - Configuration files and step-by-step reproducibility instructions.
 
